@@ -5,61 +5,48 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+更新日志
 
 <br>
 
 ### `Latest`
+
 # **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+2.0 全新版本！增加会议征稿信息！UI更新！此版本增加了查看会议征稿信息的功能，会议列表展示了截稿倒计时，方便快速查看。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+### What's New
+- 增加会议征稿信息
+- 在会议列表处显示会议截稿倒计时
+- 在会议详细页显示具体的会议举办信息
+- 主界面UI更新
+- 提升了iPadOS端的使用体验
+- [隐私政策更新](/privacypolicy)
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### Bug Fixes
+- 性能优化
 
 <br>
+
 
 ________
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+# **Version 1.5**
+
+计算机专业的你在投稿前是否纠结选择什么期刊、会议？
+
+选择了之后，你是否有疑问这个期刊的等级怎么样？这个会议是顶会吗？这个期刊/会议的网站是什么？......
+
+有时想要快速地查询某个期刊/会议的等级，你是否麻烦于查询其官方网址？
+
+现在，有了 SwiftPaper！
+
+你能够快速地查询 CCF 计算机推荐期刊、会议列表，能够查询该会议期刊的详细信息，能够快速访问查看会议期刊的网址，能够查看会议的截稿日期......
+
+APP 使用 SwiftUI 原生技术开发，体积小、UI 简洁！
+
+希望此App助力你快速选择期刊/会议，快速发出Paper！
 
 <br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
 <br>

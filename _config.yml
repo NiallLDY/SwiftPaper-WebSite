@@ -2,32 +2,32 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : 1594295556                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : CN                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : SwiftPaper能够快速地查询 CCF 计算机推荐期刊、会议列表，包含查询该会议、期刊的详细信息，能够快速访问查看会议、期刊的网址以及会议征稿信息等功能。
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Niall                               
+your_link                                 : https://swiftpaper.top                     
+your_city                                 : NanJing                                
+email_address                             : louistayd@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : iNailllv
+github_username                           : NiallLDY
 youtube_username                          :
 
 
@@ -35,41 +35,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : CCF 推荐期刊、会议
+    description                           : APP 展示了 CCF 推荐期刊、会议列表，您可以方便地查看期刊会议、信息
+    fontawesome_icon_name                 : list-ul
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : 查看期刊、会议详细信息
+    description                           : 期刊、会议的简称、全称是什么？领域是什么？出版社是哪一家？dblp网址是什么？在这里您都可以查到。
+    fontawesome_icon_name                 : info-circle
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 会议 Call For Papers 信息
+    description                           : 会议什么时候截稿？会议举办地是哪里？从2.0版本开始，增加全新查看会议征稿信息功能！截稿倒计时告诉您还有多久截稿！助力您快速投稿！
+    fontawesome_icon_name                 : hourglass-start
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : 期刊、会议信息自动更新
+    description                           : 我们为您提供最新、最全的 CCF 推荐期刊、会议列表，中文领域的也有哦！
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : 搜索、过滤
+    description                           : 您能够搜索关键字、或者按照不同类别过滤，助您快速找到所要期刊、会议信息！
+    fontawesome_icon_name                 : search-plus
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : 隐私安全
+    description                           : APP 不搜集、上传您的任何隐私信息，仅使用移动网络加载期刊会议列表信息！
+    fontawesome_icon_name                 : user-lock
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : 暗黑模式
+    description                           : APP 支持暗黑模式，暗光下也不闪眼睛哦！
+    fontawesome_icon_name                 : adjust
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : SwiftUI 原生技术
+    description                           : APP 采用 SwiftUI 原生 iOS/iPadOS 技术开发，响应迅速，占用内存小，运行不卡顿！
+    fontawesome_icon_name                 : bolt
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : iPadOS 优化
+    description                           : APP 不仅能够自适应不同 iPhone 的尺寸，还针对 iPad 进行了特殊优化，大屏幕显示也完美哦！
+    fontawesome_icon_name                 : tablet-alt
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
