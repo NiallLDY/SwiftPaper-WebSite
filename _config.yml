@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : SwiftPaper                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1594295556                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -26,7 +26,7 @@ your_city                                 : NanJing
 email_address                             : louistayd@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : iNailllv
+twitter_username                          : iNialllv
 github_username                           : NiallLDY
 youtube_username                          :
 
@@ -82,7 +82,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/header.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
