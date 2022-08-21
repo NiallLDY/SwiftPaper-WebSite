@@ -11,6 +11,10 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 2.2.0**
+Bug修复。
+添加刷新状态显示功能。
+
 
 # **Version 2.1.1**
 本次更新我们提供了更多的本地化支持。
