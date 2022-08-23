@@ -11,6 +11,12 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 2.2.2**
+更新隐私政策信息。
+
+# **Version 2.2.1**
+修复应用内链接错误的问题。
+
 # **Version 2.2.0**
 Bug修复。
 添加刷新状态显示功能。
