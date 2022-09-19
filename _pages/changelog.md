@@ -49,7 +49,7 @@ include_in_header: true
 - 提供英语本地化支持
 
 
-# **Version 2.1.0**
+## **Version 2.1.0**
 - 将 iOS 和 iPadOS 系统最低版本要求降低至 14.0
 - 修复了隐私政策页面可以编辑的问题
 
