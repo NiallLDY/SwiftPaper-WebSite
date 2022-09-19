@@ -23,6 +23,9 @@ include_in_header: true
 - 添加了网络错误处理，并有相应的 UI 提示；
 - 添加自定义图标、强调色等外观设置。
 
+
+<br/>
+
 ### `2.2`
 
 ## **Version 2.2.2**
@@ -36,14 +39,15 @@ include_in_header: true
 - 添加刷新状态显示功能。
 
 
+<br/>
+
+
 ### `2.1`
 
-# **Version 2.1.1**
+## **Version 2.1.1**
 - 本次更新完善了本地化支持。
 - 提供英语本地化支持
 
-
-<br/>
 
 # **Version 2.1.0**
 - 将 iOS 和 iPadOS 系统最低版本要求降低至 14.0
@@ -53,7 +57,7 @@ include_in_header: true
 
 ### `2.0`
 
-# **Version 2.0.0**
+## **Version 2.0.0**
 2.0 全新版本！增加会议征稿信息！UI更新！此版本增加了查看会议征稿信息的功能，会议列表展示了截稿倒计时，方便快速查看。
 
 - 增加会议征稿信息
@@ -64,11 +68,7 @@ include_in_header: true
 - [隐私政策更新](/privacypolicy)
 - 性能优化
 
-<br>
-
-
-________
-<br>
+<br/>
 
 ### `Initial Release`
 ## **Version 1.5**
