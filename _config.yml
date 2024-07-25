@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : iSwiftAI
-your_link                                 : https://swiftpaper.top                     
+your_link                                 : https://app.iswiftai.com/swiftpaper                     
 your_city                                 :
 email_address                             : support@iswiftai.com
 facebook_username                         :                                           
@@ -29,7 +29,7 @@ instagram_username                        :
 twitter_username                          : iNialllv
 github_username                           : NiallLDY/SwiftPaper
 youtube_username                          :
-
+baseurl: "/swiftpaper"
 
 
 # Feature List                            Edit, add or remove features to be presented.
@@ -82,7 +82,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/header.png                    # Replace with alternative image path or image URL.
+cover_image                               : /assets/header.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
